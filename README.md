@@ -1,1 +1,1 @@
-# Sovereign-shell-gate-prototype
+# Sovereign-shell-gate-prototype step 2 gatting
